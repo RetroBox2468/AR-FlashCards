@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shark Paint
+* source:	https://sketchfab.com/3d-models/shark-paint-1a9ebf43e1fc450eb2ea41179a843419
+* author:	Antonio Rossini (https://sketchfab.com/Rox3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shark Paint" (https://sketchfab.com/3d-models/shark-paint-1a9ebf43e1fc450eb2ea41179a843419) by Antonio Rossini (https://sketchfab.com/Rox3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
